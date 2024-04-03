@@ -1,25 +1,27 @@
-Global Terrorism Data Dashboard
+# Global Terrorism Data Dashboard
+
 The Global Terrorism Data Dashboard provides a comprehensive platform for unlocking insights into global terrorism trends. By leveraging interactive visualizations, users can delve into patterns of attacks across various regions, target types, weapon usage, and temporal scales.
 
-Exploring Terrorism Trends
-Attack Trends Over Time
+## Exploring Terrorism Trends
+
+### Attack Trends Over Time
 Analyze how terrorism activity has evolved over the years, months, or even days through intuitive visualizations.
 
-Geographical Footprint
+### Geographical Footprint
 Identify hotspots of terrorism activity and pinpoint the most affected regions and countries using geographical visualizations.
 
-Attack Types and Targets
+### Attack Types and Targets
 Uncover the most prevalent types of attacks used and the preferred targets of terrorist organizations to understand their tactics.
 
-Weapon Usage
+### Weapon Usage
 Gain insights into the most commonly used weapons employed in terrorist attacks through detailed analysis.
 
-Data Source
-The data powering this dashboard is sourced from the START Global Terrorism Database, offering reliable and comprehensive information on global terrorism incidents.
+## Data Source
 
-Technologies Used
+The data powering this dashboard is sourced from the [START Global Terrorism Database](https://www.start.umd.edu/training/using-global-terrorism-database-introduction), offering reliable and comprehensive information on global terrorism incidents.
+
+## Technologies Used
+
 This dashboard is built using:
 
-Python
-Plotly
-Dash
+- Power BI

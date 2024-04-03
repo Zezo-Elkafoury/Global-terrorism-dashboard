@@ -18,7 +18,7 @@ Gain insights into the most commonly used weapons employed in terrorist attacks 
 
 ## Data Source
 
-The data powering this dashboard is sourced from the [START Global Terrorism Database](https://www.start.umd.edu/training/using-global-terrorism-database-introduction), offering reliable and comprehensive information on global terrorism incidents.
+The data powering this dashboard is sourced from the Intern Career company, offering reliable and comprehensive information on global terrorism incidents.
 
 ## Technologies Used
 
